@@ -62,13 +62,13 @@
 * Final Analysis
 
 ## Final Analysis
-*  Salary by Title and Year:
-    - In 2020, data analysts with the title, "Director of Data Science," received the highest chunk of the data analyst salaries, at 325K in average salary. This is followed by Machine Learning Scientists, who received 260K in average salary. This suggests that Directors of Data Science and Machine Learning Scientists were the most valued positions in that year.
-    - In 2021, data analysts with the title, "Financial Data Analyst," received the highest chunk of the data analyst salaries, at 450K in average salary, followed by Principal Data Engineers, who earned an average salary of 328.33K
-    - In 2022, these positions were replaced in the salary higherarchy by "Data Analytics Lear" and "Applied Data Scientist."
-* Count of Job Titles by Experience: The majority of data analyst jobs are for those with senior level experience. There were 280 jobs at the Senior Level, compared to just 88 jobs at the entry level. This shows that data analysis is a career path that greatly favors those with higher levels of experience and that may be difficult to enter as an entry level analyst.
-* Salary by Country Location: The majority of data analystis jobs can be found in Russia, with 5.4% of all data analysis jobs, followed by the US, with 5.0% of all data analysis jobs. This suggests the the US and Russia are both great locations to begin a data analysis career.
-* Count of remote_ratio by company_location: 
+*  **Salary by Title and Year**:
+    - In **2020**, data analysts with the title, "Director of Data Science," received the highest chunk of the data analyst salaries, at 325K in average salary. This is followed by Machine Learning Scientists, who received 260K in average salary. This suggests that Directors of Data Science and Machine Learning Scientists were the most valued positions in that year.
+    - In **2021**, data analysts with the title, "Financial Data Analyst," received the highest chunk of the data analyst salaries, at 450K in average salary, followed by Principal Data Engineers, who earned an average salary of 328.33K
+    - In **2022**, these positions were replaced in the salary higherarchy by "Data Analytics Lear" and "Applied Data Scientist."
+* **Count of Job Titles by Experience**: The majority of data analyst jobs are for those with senior level experience. There were 280 jobs at the Senior Level, compared to just 88 jobs at the entry level. This shows that data analysis is a career path that greatly favors those with higher levels of experience and that may be difficult to enter as an entry level analyst.
+* **Salary by Country Location**: The majority of data analystis jobs can be found in Russia, with 5.4% of all data analysis jobs, followed by the US, with 5.0% of all data analysis jobs. This suggests the the US and Russia are both great locations to begin a data analysis career.
+* **Count of remote_ratio by company_location**: 
 
 ## Final Presentation Slides
 * https://docs.google.com/presentation/d/1DBIxSaptbP6Z7S6zVQo1kIMmUOZZiQHWFz4e4vPYKsc/edit?usp=sharing
