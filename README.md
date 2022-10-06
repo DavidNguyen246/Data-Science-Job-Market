@@ -56,6 +56,12 @@
   <p>For this table, the two csv files were merged. To start off, the data is extracted from data_science_jobs_salries.csv into a Pandas dataframe, and the countries.csv by matching the common data in the Country column. This allowed the country codes, longitudes, and latitudes to be added to the DS_salaries table..</p>
 
 * Dashboard Creation
+  -Download the Ext JS Framework
+  -sencha app install --framework=/path/to/extjs/
+  -Start with base widgets example at sencha documentation
+  -sencha app build
+  -sencha app watch
+  -http://localhost:1841
 
 * Visualization of Data 
     - Created 6 visualizations: We created 3 angled pie charts that show the relationship between data analyst job titles and salary, based on the year the informaton was collected. We also created a horizontal bar graph to show the impact of experience level on the number of jobs available to a data analyst, followed by a donut graph to show data analyst salary by country location. Lastly, we created a front-facing pie chart to show the ratio of remote jobs by country location.
