@@ -11,7 +11,6 @@ from sqlalchemy import create_engine, func, Column, Integer, String
 from flask import Flask, jsonify
 from flask_cors import CORS, cross_origin
 
-#       groupcv2.ci6szv7owa4r.us-east-1.rds.amazonaws.com  password=  London2022
 
 #################################################
 # Database Setup # -------> MAKE SURE the AWS database is set up locally first! <-----------------
@@ -28,6 +27,9 @@ Base.prepare(engine, reflect=True)
 ds_salaries = Base.classes.ds_salaries
 
 #ds_salariesv1 = Base.classes.ds_salariesv1
+
+# This is how we would have made the table 
+# If the table is already created this part stay commented out
 
 # Create ds_salaries Table in database
 # engine.execute("CREATE TABLE 'ds_salaries")
