@@ -69,7 +69,7 @@
     - In **2022**, these positions were replaced in the salary higherarchy by "Data Analytics Lear" and "Applied Data Scientist."
 * **Count of Job Titles by Experience**: The majority of data analyst jobs are for those with senior level experience. There were 280 jobs at the Senior Level, compared to just 88 jobs at the entry level. This shows that data analysis is a career path that greatly favors those with higher levels of experience and that may be difficult to enter as an entry level analyst.
 * **Salary by Country Location**: The highest paid of data analystis jobs can be found in Russia, with an average salary of 157.5K USD, followed by the US, with an average salary of 144.06K USD. This suggests the the US and Russia are two of the best paid locations to begin a data analysis career.
-* **Count of remote_ratio by company_location**: The vast majority of jobs with remote options are in the US. In fact, our graph shows that the US holds 58.6% of all jobs that offer remote options. This is followed by Canada with 3.1% of the world's remote option jobs for data analysis. Our findings suggest that the US is the place to work if one hopes to be employed remotely.
+* **Count of remote_ratio by company_location**: The vast majority of jobs with remote options are in the US. In fact, our graph shows that the US holds 69.8% of all remote jobs. This is followed by Canada with 5% of the world's remote jobs for data analysis. Our findings suggest that the US is the place to work if one hopes to be employed remotely.
 
 ## Final Presentation Slides
 * https://docs.google.com/presentation/d/1DBIxSaptbP6Z7S6zVQo1kIMmUOZZiQHWFz4e4vPYKsc/edit?usp=sharing
