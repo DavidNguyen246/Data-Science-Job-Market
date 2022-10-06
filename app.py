@@ -100,11 +100,9 @@ def data_science():
 
     # Create dictionary from row data and append to a list 
     all_data = []
- #  for id, work_year, experience_level, employment_type, job_title, salary, salary_currency, salary_in_usd, employee_residence, remote_ratio, company_location, company_size, latitude, longitude, country_code in rows:
+    
     for item in rows:
         data_dict = {}
-        #'US', 376, 2022, 'SE', 'FT', 'Data Analyst', 132000, 'USD', 132000, 'US', 0, 'US', 'M', '37.09024', '-95.712891'
-        #print(item)
         data_dict['Country_code'] = item[0]
         data_dict['id'] = item[1]
         data_dict['Work_year'] = item[2]
