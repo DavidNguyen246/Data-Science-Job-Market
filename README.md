@@ -58,6 +58,7 @@
 * Dashboard Creation
 
 * Visualization of Data 
+    - Created 6 visualizations: We created 3 angled pie charts that show the relationship between data analyst job titles and salary, based on the year the informaton was collected. We also created a horizontal bar graph to show the impact of experience level on the number of jobs available to a data analyst, a donut graph to show data analyst salary by country location.
       
 * Final Analysis
 
@@ -67,7 +68,7 @@
     - In **2021**, data analysts with the title, "Financial Data Analyst," received the highest chunk of the data analyst salaries, at 450K in average salary, followed by Principal Data Engineers, who earned an average salary of 328.33K
     - In **2022**, these positions were replaced in the salary higherarchy by "Data Analytics Lear" and "Applied Data Scientist."
 * **Count of Job Titles by Experience**: The majority of data analyst jobs are for those with senior level experience. There were 280 jobs at the Senior Level, compared to just 88 jobs at the entry level. This shows that data analysis is a career path that greatly favors those with higher levels of experience and that may be difficult to enter as an entry level analyst.
-* **Salary by Country Location**: The majority of data analystis jobs can be found in Russia, with 5.4% of all data analysis jobs, followed by the US, with 5.0% of all data analysis jobs. This suggests the the US and Russia are both great locations to begin a data analysis career.
+* **Salary by Country Location**: The highest paid of data analystis jobs can be found in Russia, with an average salary of 157.5K USD, followed by the US, with an average salary of 144.06K USD. This suggests the the US and Russia are two of the best locations to begin a data analysis career.
 * **Count of remote_ratio by company_location**: The vast majority of jobs with remote options are in the US. In fact, our graph shows that the US holds 58.6% of all jobs that offer remote options. This is followed by Canada with 3.1% of the world's remote option jobs for data analysis. Our findings suggest that the US is the place to work if one hopes to be employed remotely.
 
 ## Final Presentation Slides
