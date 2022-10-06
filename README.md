@@ -55,11 +55,12 @@
   -Merged csv files
   <p>For this table, the two csv files were merged. To start off, the data is extracted from data_science_jobs_salries.csv into a Pandas dataframe, and the countries.csv by matching the common data in the Country column. This allowed the country codes, longitudes, and latitudes to be added to the DS_salaries table..</p>
 
-*Dashboard Creation
+* Dashboard Creation
       
       
-*Visualization of Data
-      
+* Visualization of Data	    
+ - Salary by Title and Year: In 2020, data analysts with the title, "Director of Data Science," received the highest chunk of the data analyst salaries, at 325K in average salary. This is followed by Machine Learning Scientists, who received 260K in average salary. This suggests that Directors of Data Science and Machine Learning Scientists were the most valued positions in that year. In 2021, data analysts with the title, "Financial Data Analyst," received the highest chunk of the data analyst salaries, at 450K in average salary, followed by Principal Data Engineers, who earned an average salary of 328.33K In 2022, these positions were replaced in the salary higherarchy by "Data Analytics Lear" and "Applied Data Scientist."
+ - 
       
 *Final Analysis
 
