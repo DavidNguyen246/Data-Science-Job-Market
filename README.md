@@ -45,6 +45,9 @@
   - 1 Table Created - DS_salaries 
     	- See Tables section below
   - 2 CSV files merged
+  
+  ![image](https://user-images.githubusercontent.com/106934375/194442429-91e20f39-a7b2-4249-93a0-1faf675598b9.png)
+
     - <p><a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries">Data Science Job Science Salaries 2000-2  2022</a> (Static CSV)</p>
     - <p><a href="https://developers.google.com/public-data/docs/canonical/countries_csv">Country Codes, Longitudes & Latitudes</a)
   - jsonify data in table for HTML
