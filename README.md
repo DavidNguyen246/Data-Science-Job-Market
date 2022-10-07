@@ -72,6 +72,8 @@
 * Visualization of Data 
 
     - Created 6 visualizations: We created 3 angled pie charts that show the relationship between data analyst job titles and salary, based on the year the informaton was collected. We also created a horizontal bar graph to show the impact of experience level on the number of jobs available to a data analyst, followed by a donut graph to show data analyst salary by country location. Lastly, we created a front-facing pie chart to show the ratio of remote jobs by country location.
+    ![image](https://user-images.githubusercontent.com/105941870/194449397-2491592e-7f90-4cc2-b847-67c023578657.png)
+
       
 * Final Analysis
 
