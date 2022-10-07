@@ -45,8 +45,6 @@
   - 1 Table Created - DS_salaries 
     	- See Tables section below
   - 2 CSV files merged
-  
-  ![image](https://user-images.githubusercontent.com/106934375/194442429-91e20f39-a7b2-4249-93a0-1faf675598b9.png)
 
     - <p><a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries">Data Science Job Science Salaries 2000-2  2022</a> (Static CSV)</p>
     - <p><a href="https://developers.google.com/public-data/docs/canonical/countries_csv">Country Codes, Longitudes & Latitudes</a)
@@ -54,7 +52,9 @@
     
 * Table Creation
   - DS_salaries table created </p>
-  -<img src="add png">
+	    
+  ![image](https://user-images.githubusercontent.com/106934375/194442543-db67fb27-d1fa-44a9-b420-c84e9b4acafa.png)
+
   -Merged csv files
   <p>For this table, the two csv files were merged. To start off, the data is extracted from data_science_jobs_salaries.csv into a Pandas dataframe, and the countries.csv by matching the common data in the Country column. This allowed the country codes, longitudes, and latitudes to be added to the DS_salaries table..</p>
 
