@@ -53,7 +53,7 @@
   - DS_salaries table created </p>
   -<img src="add png">
   -Merged csv files
-  <p>For this table, the two csv files were merged. To start off, the data is extracted from data_science_jobs_salries.csv into a Pandas dataframe, and the countries.csv by matching the common data in the Country column. This allowed the country codes, longitudes, and latitudes to be added to the DS_salaries table..</p>
+  <p>For this table, the two csv files were merged. To start off, the data is extracted from data_science_jobs_salaries.csv into a Pandas dataframe, and the countries.csv by matching the common data in the Country column. This allowed the country codes, longitudes, and latitudes to be added to the DS_salaries table..</p>
 
 * Dashboard Creation
   -Download the Ext JS Framework
