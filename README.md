@@ -83,7 +83,7 @@
 	    
 * **Analysis Jobs by Country Location**: The vast majority of Data Analysis Jobs are located in the US. According to our data set, the US makes up 58.6% of all data analysis jobs, worldwide. However, this is based on our Kaggle Data Set, which may have a representation bias towards jobs in the US.
 	    
-	    ![image](https://user-images.githubusercontent.com/106934375/194447965-9bab5fab-7c14-4cfa-b225-4279090508c0.png)
+![image](https://user-images.githubusercontent.com/106934375/194447965-9bab5fab-7c14-4cfa-b225-4279090508c0.png)
 
 * **Count of remote_ratio by company_location**: The vast majority of jobs with remote options are in the US. In fact, our graph shows that the US holds 69.8% of all remote jobs. This is followed by Canada with 5% of the world's remote jobs for data analysis. Our findings suggest that the US is the place to work if one hopes to be employed remotely.
 	    
