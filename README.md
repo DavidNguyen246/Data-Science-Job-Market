@@ -78,11 +78,13 @@
     - In **2021**, data analysts with the title, "Financial Data Analyst," received the highest chunk of the data analyst salaries, at 450K in average salary, followed by Principal Data Engineers, who earned an average salary of 328.33K
     - In **2022**, these positions were replaced in the salary higherarchy by "Data Analytics Lear" and "Applied Data Scientist."
 * **Count of Job Titles by Experience**: The majority of data analyst jobs are for those with senior level experience. There were 280 jobs at the Senior Level, compared to just 88 jobs at the entry level. This shows that data analysis is a career path that greatly favors those with higher levels of experience and that may be difficult to enter as an entry level analyst.
+	    
 ![image](https://user-images.githubusercontent.com/106934375/194447394-d4de049f-90eb-4035-a351-bd8cc913ecef.png)
+	    
 * **Analysis Jobs by Country Location**: The vast majority of Data Analysis Jobs are located in the US. According to our data set, the US makes up 58.6% of all data analysis jobs, worldwide. However, this is based on our Kaggle Data Set, which may have a representation bias towards jobs in the US.
 * **Count of remote_ratio by company_location**: The vast majority of jobs with remote options are in the US. In fact, our graph shows that the US holds 69.8% of all remote jobs. This is followed by Canada with 5% of the world's remote jobs for data analysis. Our findings suggest that the US is the place to work if one hopes to be employed remotely.
+	    
 ![image](https://user-images.githubusercontent.com/106934375/194447589-561c4b0c-8c7c-46f9-91a2-706abc126761.png)
-
 
 ## Final Presentation Slides
 * https://docs.google.com/presentation/d/1DBIxSaptbP6Z7S6zVQo1kIMmUOZZiQHWFz4e4vPYKsc/edit?usp=sharing
