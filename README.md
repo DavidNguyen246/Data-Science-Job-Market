@@ -2,6 +2,9 @@
 
 # Career Analysis: Data Science
 ## Project Summary
+
+![image](https://user-images.githubusercontent.com/106934375/194448598-07e2371d-6bd0-4e4e-8bf6-b5fc1298c7fb.png)
+
 <p> As participants of the GT Data Science Bootcamp, we all have a vested interest in the demand for Data Science careers. We would like to build a dashboard that allows users to see a breakdown of the different types of job titles in the Data Science field, where these jobs are located, the range of salaries associated with these jobs, and whether the jobs require entry, mid, senior or executive level skills.</p>
 
 ## System Requirements
