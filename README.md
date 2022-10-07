@@ -1,4 +1,4 @@
-# Project3-C is for Cool
+# Project 3-C is for Cool
 
 # Career Analysis: Data Science
 ## Project Summary
